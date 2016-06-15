@@ -2,7 +2,7 @@
 
   'use strict';
 
-  angular.module('stadiumTest')
+  angular.module('builtForSaturdays')
   .service('ConferencesService', function($http) {
 
     var that = this;

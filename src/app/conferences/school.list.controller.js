@@ -2,7 +2,7 @@
 
   'use strict';
 
-  angular.module('stadiumTest')
+  angular.module('builtForSaturdays')
   .controller('SchoolListController', function ($state, $stateParams, ConferencesService) {
 
     var vm = this;

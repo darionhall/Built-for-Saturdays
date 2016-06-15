@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('stadiumTest')
+    .module('builtForSaturdays')
     .config(routerConfig);
 
    /** @ngInject */
