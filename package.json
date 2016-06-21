@@ -4,7 +4,8 @@
   "dependencies": {},
   "scripts": {
     "test": "gulp test",
-    "lodash": "^2.4.1"
+    "lodash": "^2.4.1",
+    "start": "node ./.tmp/serve/index.html"
   },
   "devDependencies": {
     "estraverse": "~4.1.0",
@@ -52,6 +53,6 @@
     "wrench": "~1.5.8"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": "~6.0.0"
   }
 }
